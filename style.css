@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+}
+body{
+    background-color: rgb(249, 218, 250);
+}
+a{
+    color: indigo;
+    font-size: 20px;
+    text-decoration: none;
+}
+button{
+    margin-top: 70px;
+    margin-left: 42%;
+    height: 70px;
+    width: 150px;
+    background-color: rgb(246, 106, 171);
+    border: 2px solid rgb(253, 81, 161);
+}
+button:hover{
+    border-radius: 50px;
+}
